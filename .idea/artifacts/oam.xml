@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="oam">
+    <output-path>$PROJECT_DIR$/out/artifacts/oam</output-path>
+    <root id="root">
+      <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.1.RELEASE" />
+    </root>
+  </artifact>
+</component>

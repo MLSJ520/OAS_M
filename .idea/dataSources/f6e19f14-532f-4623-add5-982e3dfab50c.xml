@@ -1,0 +1,24 @@
+<dataSource name="MySQL - oa_m@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="2.6">
+    <schema id="1" name="oa_m">
+      <visible>1</visible>
+    </schema>
+    <schema id="2" name="bbs" />
+    <schema id="3" name="coderbbs" />
+    <schema id="4" name="dbst" />
+    <schema id="5" name="dp" />
+    <schema id="6" name="eosdatabase" />
+    <schema id="7" name="information_schema" />
+    <schema id="8" name="lable" />
+    <schema id="9" name="mydb" />
+    <schema id="10" name="mysql" />
+    <schema id="11" name="performance_schema" />
+    <schema id="12" name="sakila" />
+    <schema id="13" name="sushe" />
+    <schema id="14" name="sys" />
+    <schema id="15" name="tpch" />
+    <schema id="16" name="weiphp" />
+    <schema id="17" name="world" />
+    <schema id="18" name="wuliexpress" />
+  </database-model>
+</dataSource>
